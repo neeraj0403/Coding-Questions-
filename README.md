@@ -48,5 +48,17 @@ First line contains N and C, separated by a single space, representing the total
   3<br />
 
 
+## 4.Book Allocation
+ -**Problem**You are given number of pages in n different books and m students. The books are arranged in ascending order of number of pages. Every student is assigned to read some consecutive books. The task is to assign books in such a way that the maximum number of pages assigned to a student is minimum.
 
+- **Sample Input**:<br />
+First line contains integer t as number of test cases. Next t lines contains two lines. For each test case, 1st line contains two integers n and m which represents the number of books and students and 2nd line contains n space separated integers which represents the number of pages of n books in ascending order.<br />
+1<br />
+4 2<br />
+12 34 67 90<br />
 
+-**Sample Output**:<br />
+113 <br />
+-**Explanation**:<br />
+1st students : 12 , 34, 67 (total = 113) 2nd students : 90 (total = 90) Print max(113, 90)<br />
+[link to the problem](https://hack.codingblocks.com/contests/c/611/1263) <br />
