@@ -18,7 +18,8 @@ This repo contains some good coding problems
 [link to the solution](https://github.com/rohitkumar1999/Coding-Questions-/blob/master/RAIN%20WATER%20TRAPPING.java)
 
 ## 2.MAXIMUM SUM PATH IN TWO ARRAYS
- - **Problem** You are provided two sorted arrays. You need to find the maximum length of bitonic subsequence. You need to find the sum of the maximum sum path to reach from beginning of any array to end of any of the two arrays. You can switch from one array to another array only at common elements.<br />
+ - **Problem** You are provided two sorted arrays. You need to find the maximum length of bitonic subsequence. You need to find the sum of the maximum sum  
+ path to reach from beginning of any array to end of any of the two arrays. You can switch from one array to another array only at common elements.<br />
  [link to the problem ](https://hack.codingblocks.com/contests/c/611/1290) <br />
  -**Sample Input**:<br />
 1<br />
