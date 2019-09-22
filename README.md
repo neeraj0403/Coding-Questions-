@@ -41,7 +41,7 @@ His C (2 <= C <= N) cows don't like this barn layout and become aggressive towar
 [link to the problem](http://www.spoj.com/problems/AGGRCOW/)<br />
 
   -**Sample Input**:<br />
-First line contains N and C, separated by a single space, representing the total number of stalls and number of cows respectively. The next line contains N integers containing the indexes of stalls.<br />
+First line contains N and C, separated by a single space, representing the total number of stalls and number of cows respectively. The next line contains N  number of integers containing the indexes of stalls.<br />
 5 3<br />
 1 2 8 4 9<br />
 
