@@ -1,5 +1,5 @@
 # Coding-Questions- 
-This repo contains some good coding problems <br />   
+This repo contains some good coding problems   with their solutions <br />   
 **Users**
 - [Rohit Kumar](https://github.com/rohitkumar1999) 
  
